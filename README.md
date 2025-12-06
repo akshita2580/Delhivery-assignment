@@ -298,11 +298,6 @@ A comprehensive Figma design plan is available in `/design/figma-plan.md`:
 - **Export Instructions**: Frame setup and export settings for all pages
 - **Design Tokens**: JSON format for colors, spacing, and typography
 
-#### Figma Design System
-
-**Design File**: [Figma Design Link](https://www.figma.com/file/YOUR_FILE_ID/Bot-Management-System)
-
-*Note: Replace `YOUR_FILE_ID` with actual Figma file ID when design is created.*
 
 #### Design Screens Mapping
 
@@ -389,33 +384,6 @@ A real-time 3D visualization of bots is available at `/3d` route:
 - Real-time synchronization with bot store
 - Proper cleanup on unmount
 
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Screenshot](./screenshots/dashboard.png)
-*Overview of bot fleet statistics and system status*
-
-### Bot Status
-![Bot Status Screenshot](./screenshots/bot-status.png)
-*Real-time monitoring of all 10 bots with status indicators*
-
-### Task Allocation
-![Task Allocation Screenshot](./screenshots/task-allocation.png)
-*Create and assign tasks to available bots*
-
-### Analytics
-![Analytics Screenshot](./screenshots/analytics.png)
-*Comprehensive charts and insights for bot fleet*
-
-### Map View
-![Map Screenshot](./screenshots/map.png)
-*Interactive SVG map with moving bot visualization*
-
-### 3D View
-![3D View Screenshot](./screenshots/3d-view.png)
-*Three.js 3D visualization of bots on grid floor*
-
-*Note: Screenshots should be added to `/screenshots/` directory. Placeholder paths shown above.*
 
 ## 📄 License
 
